@@ -5,5 +5,4 @@
 > in any programming language you like.
 
 
-
-*  [✅ Day 1](2022/1/)
+*  [✅ Day 1](src/day01/)
